@@ -1,2 +1,2 @@
-# C-ProgrammingPractice
-C++ Programming
+# C++ ProgrammingPractice
+
